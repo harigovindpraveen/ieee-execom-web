@@ -111,7 +111,7 @@ const Header: React.FC<HeaderProps> = ({ isScrolled, onNavigate, currentView }) 
                   <img src="/assets/ieee.png" alt="IEEE Logo" className="h-10 filter grayscale brightness-0" />
                 </a>
                 <a href="http://ieee.ce-kgr.org" target="_blank" rel="noopener noreferrer">
-                  <img src="/assets/ieeelogo.png" alt="IEEE SB CEK Logo" className="h-12 filter grayscale brightness-0" />
+                  <img src="/assets/ieeesb.png" alt="IEEE SB CEK Logo" className="h-12 filter grayscale brightness-0" />
                 </a>
             </div>
             <div className="flex items-center space-x-6 mt-2">
