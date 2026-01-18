@@ -67,7 +67,7 @@ const StudentRegistration: React.FC<StudentRegistrationProps> = ({ onNavigateBac
         <p className="max-w-2xl mx-auto text-gray-400 leading-relaxed mb-12 text-lg">
           {registrationHasOpened 
             ? 'You can now register for zerone 7.0. Click the button below to proceed with your application. We look forward to seeing you!' 
-            : 'Registration opens on October 7, 2026. Stand by for connection to the registration server. We look forward to seeing you at zerone 7.0!'
+            : 'Registration opens two days before the event on October 7, 2026. Stand by for connection to the registration server. We look forward to seeing you at zerone 7.0!'
           }
         </p>
         
